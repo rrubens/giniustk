@@ -25,4 +25,4 @@ class Test(TestCase):
         assert utils.isTrue() is True
 
     def test_is_False(self):
-        assert utils.isTrue() is False
+        assert utils.isFalse() is False
