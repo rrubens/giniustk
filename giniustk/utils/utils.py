@@ -18,3 +18,6 @@ def smallerThan(number):
 
 def isTrue():
     return True
+
+def isFalse():
+    return False

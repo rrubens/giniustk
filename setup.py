@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='giniustk',
-    version='0.0.1',
+    version='0.0.2',
     description='Ginius ToolKit',
     author='Ruben Rosino',
     author_email='ruben.rosino@mercadolibre.com',
